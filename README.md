@@ -4,7 +4,7 @@
 ## PT/BR 
 
 Descrição: Olá! Nesse projeto de ciência dos dados, pretendemos realizar um modelo de predição de níveis de radiação solar em função de demais variáveis. O dataset usado é https://www.kaggle.com/dronio/SolarEnergy. 
-O arquivo que contém o código e a análise dos datasets é o projeto2.ipynb (e o dataset é o SolarPrediction.csv)
+O arquivo que contém o código e a análise do dataset é o *projeto2.ipynb* (e o dataset é o *SolarPrediction.csv*)
 Os demais arquivos (READ.me e img) são items complementares do projeto. 
 
 Integrantes: Gustavo Guedes, Natália Carreras, Tiago Seixas e Maia Fleider (Estudantes de Engenharia - INSPER).
